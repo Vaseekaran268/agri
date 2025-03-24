@@ -1,1 +1,10 @@
-
+pymupdf
+langchain
+langchain-community
+langchain-groq
+pandas
+numpy
+matplotlib
+python-docx
+fastembed
+faiss-cpu
